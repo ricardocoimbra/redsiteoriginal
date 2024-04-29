@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "email-ssl.com.br",
+  "port": 465,
+  "username": "contato_site@redmaxx.com.br",
+  "password": "Teste.5021@",
+  "recipientEmail": "contato_site@redmaxx.com.br"
+}
